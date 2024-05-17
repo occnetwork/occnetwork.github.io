@@ -4,7 +4,7 @@
 
 [BDO](bdo.html)
 
-[RF](rf.hmtl)
+[RF](rf.html)
 
 [Genshin Impact](genshin.html)
 
