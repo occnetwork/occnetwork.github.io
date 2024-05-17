@@ -1,6 +1,5 @@
-# OCC Network
+# Back Up Discord Message
 
-# Back up OCC server chat
 [Dota](dota.html)
 
 [BDO](bdo.html)
