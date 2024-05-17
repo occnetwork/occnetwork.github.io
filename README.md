@@ -14,7 +14,7 @@
 
 [TOF](tof.html)
 
-[Master Duel](masteduel.html)
+[Master Duel](masterduel.html)
 
 [Star Rail](starrail.html)
 
