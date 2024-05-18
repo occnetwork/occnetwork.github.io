@@ -38,6 +38,6 @@
 
 [VVIP](https://drive.google.com/file/d/1oZRhBekQU1ugPlEZjxcTN5pFSfSivyCt/view?usp=sharing)
 
-<iframe width="560" height="315" src="https://go.screenpal.com/u/ANhB/
-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link to Page 2](page2.md)
+
 
