@@ -1,5 +1,8 @@
 #test
 
-<iframe width="320" height="240" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cZhF3KVLupG?width=320&height=240&ff=1&title=0&embed=1" allowfullscreen="true"></iframe>
+<video width="640" height="480" controls>
+  <source src="https://youtu.be/XT7uL7YQwOs" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
